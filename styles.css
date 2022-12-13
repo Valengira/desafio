@@ -1,0 +1,26 @@
+*
+.body{
+  background-color: #3eb4d1;
+}
+.container-fluid {
+  background-color: #3eb4d1;
+  padding: 0%;
+  font-family: "georgia";
+}
+.card-img-top{
+  width: 420px;
+  height: 300px;
+}
+.card{
+  width: 450px;
+  height: 500px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.imgcec{
+  left: 20px;
+  width: 507px;
+  height: 400px;
+  display: block;
+  object-fit: cover;
+}
